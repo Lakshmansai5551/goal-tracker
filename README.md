@@ -1,4 +1,4 @@
-To the run the goal tracker follow below steps 
+To the run the goal tracker follow below steps
 
 Go to the project directory
 
