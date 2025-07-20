@@ -3,7 +3,7 @@ To the run the goal tracker follow below steps
 Go to the project directory
 
 ```bash
-  cd goal-tracker
+  cd goal-tracker 
 ```
 
 Install dependencies
